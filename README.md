@@ -1,6 +1,6 @@
 # GramIQ — Farm Finance Report Generator
 
-Simple FastAPI backend that accepts farm finance data via a web form and generates a downloadable PDF report with charts, tables, and a clean header (GramIQ logo).
+Simple FastAPI backend that accepts farm finance data via a web form and generates a downloadable PDF report with charts, tables.
 
 ## Repository structure
 gramiq-report/
